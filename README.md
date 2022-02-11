@@ -12,7 +12,7 @@
   <h1>⎝🛡ᗪᖇ𝙰𝙶𝚘𝚗 Ӽ 🛡աɦ𝐚𝐭𝐬𝐚𝐩𝐩 𝐔𝐬𝐞𝐫 𝐁𝐨𝐭</h1>
 </div>
 <p align="center">
-    World best Sinhala/English WhatsApp Button Bot Developer Achi Fernando Enjoy Our Bot
+    World best Sinhala/English WhatsApp Button Bot Developer Janith Sadanuwan Enjoy Our Bot
     <br>
         <a href="https://chat.whatsapp.com/">Whatsapp Group</a> |
         <a href="https://www.youtube.com/c/Janithsadanuwan">Youtube Channel</a>
