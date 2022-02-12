@@ -61,20 +61,6 @@
 
   </a>
 </p>
-
-##🔱 SPECIAL THANKS 🔱
-
-🍁 HIRUSHA RUKSHAN
-➢ BOT BASE OWNER
-</a>
-  <a href="https://github.com/Dark-Knight-Hiruwa">
-   </p>
-<div align="center">
-  <img src="https://telegra.ph/file/10bdbaab2d4d163e2affa.jpg" width="300" height="300">
-	<div align="center">
-
-  </a>
-</p>
 ## License
 මෙම ව්‍යාපෘතිය `GNU General Public License v3.0` බලපත්රයෙන් ආරක්ෂා කර ඇත.
 ප්‍රකාශන හිමිකම් පණිවිඩ සංස්කරණය නොකරන්න!
@@ -82,3 +68,27 @@
 ### Disclaimer
 `WhatsApp` name, එහි වෙනස්කම් සහ ලාංඡනය ෆේස්බුක් හි ලියාපදිංචි වෙළඳ ලකුණු වේ. ලියාපදිංචි වෙළඳ ලකුණ සමඟ අපට කිසිදු සම්බන්ධයක් නැත.
 <div align="center">  
+	
+
+	
+	
+	
+	
+	
+	
+	
+	
+🔱 SPECIAL THANKS 🔱	
+			
+🍁 HIRUSHA RUKSHAN
+➢ BOT BASE OWNER
+</a>
+  <a href="https://github.com/Dark-Knight-Hiruwa">
+   </p>
+<div align="center">
+  <img src="https://telegra.ph/file/10bdbaab2d4d163e2affa.jpg" width="150" height="150">
+	<div align="center">
+
+  </a>
+</p>
+
