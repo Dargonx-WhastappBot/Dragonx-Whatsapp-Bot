@@ -64,9 +64,17 @@
 
 ##🔱 SPECIAL THANKS 🔱
 
-🍁 HIRUSHA RUKSHAN @Dark-Knight-Hiruwa
+🍁 HIRUSHA RUKSHAN
 ➢ BOT BASE OWNER
+</a>
+  <a href="https://github.com/Dark-Knight-Hiruwa">
+   </p>
+<div align="center">
+  <img src="https://telegra.ph/file/10bdbaab2d4d163e2affa.jpg" width="300" height="300">
+	<div align="center">
 
+  </a>
+</p>
 ## License
 මෙම ව්‍යාපෘතිය `GNU General Public License v3.0` බලපත්රයෙන් ආරක්ෂා කර ඇත.
 ප්‍රකාශන හිමිකම් පණිවිඩ සංස්කරණය නොකරන්න!
