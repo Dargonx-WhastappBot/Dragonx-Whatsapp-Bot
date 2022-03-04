@@ -26,7 +26,7 @@
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://github.com/Dargonx-WhastappBot/Dragonx-Whatsapp-Bot)
 </div>
 
-----
+---- 
 
 <p align="center">
 
