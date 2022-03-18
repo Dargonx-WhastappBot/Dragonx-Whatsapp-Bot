@@ -80,13 +80,13 @@
 	
 🔱 SPECIAL THANKS 🔱	
 			
-🍁 HIRUSHA RUKSHAN
-➢ BOT BASE OWNER
+🍁 
+➢ 
 </a>
-  <a href="https://github.com/Dark-Knight-Hiruwa">
+  <a href="">
    </p>
 <div align="center">
-  <img src="https://telegra.ph/file/10bdbaab2d4d163e2affa.jpg" width="150" height="150">
+  <img src="" width="150" height="150">
 	<div align="center">
 
   </a>
